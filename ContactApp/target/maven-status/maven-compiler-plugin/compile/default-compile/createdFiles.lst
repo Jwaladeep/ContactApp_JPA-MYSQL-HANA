@@ -1,0 +1,4 @@
+com\sap\ca\PersonServlet.class
+com\sap\ca\PersonalDetailsPersistence.class
+com\sap\ca\PersonalDetails.class
+com\sap\ca\EntityManagerCreation.class

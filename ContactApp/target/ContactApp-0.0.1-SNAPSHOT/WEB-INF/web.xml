@@ -1,0 +1,14 @@
+<web-app>
+	<servlet>
+		<servlet-name>
+			PersonServlet
+		</servlet-name>
+		<servlet-class>com.sap.ca.PersonServlet</servlet-class>
+	</servlet>
+	 <servlet-mapping>
+       <servlet-name>PersonServlet</servlet-name>
+       <url-pattern>/PersonalDetails</url-pattern>
+  </servlet-mapping>
+	
+
+</web-app>
